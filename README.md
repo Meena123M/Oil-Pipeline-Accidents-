@@ -51,12 +51,6 @@ All models were built using `sklearn.pipeline.Pipeline` for clean and repeatable
 
 ---
 
-## 📈 Results Summary
 
-- Accuracy (Logistic Regression): **66%**
-- Applied clustering (K=6) with silhouette score analysis
-- Feature space expanded to ~3,100 after encoding
-
----
 
 
